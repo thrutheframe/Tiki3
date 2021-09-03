@@ -32,6 +32,10 @@ Q: Is there any major design changes between this version (3.2) and the previous
 
 A: Most of the changes structual improvements, but the position of the mounting holes are the same. The major changes is the fan duct. but it will still fit the over versions as the mounting holes are the same. 
 
+Q:Will there be a design for V6 /Dragon hotend?
+
+A: Yes. I am working on it. 
+
 Q: Would you be able to include a custom design for bracket/fan duct/holder etc etc?
 
 A: Due to my engineering background and training, I have a habit to print and test the designs to my level best before I release them. Without the actual item (or part that are close the the same dimensions) I would not be able to do that. Either I can borrow the items from friends or someone/company is willing to sponsor me the item. There is not much I can do. 
