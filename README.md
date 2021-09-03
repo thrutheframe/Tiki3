@@ -41,6 +41,7 @@ Q: Would you release the STEP file for others to remix your design?
 A: I asked this question once and the answer was "if u can remix it, u can design it on your own". He was kindof an asshole, but he was not wrong either. That is why I ended up designing this mount system. I prefer not to be an asshole, but I am cheeky. Hence, I would release the STEP files for the body and BL bracket, which will be a good foundation to built your own version/remix.  
 
 Q: Why it is called Tiki3
+
 A: Tiki was the name of our family dog. He passed away several years ago and we still miss him dearly. So I named this system after him. 
 
 My 3D printing hobby is running on Fun-Funds which is usually in fumes state. 
