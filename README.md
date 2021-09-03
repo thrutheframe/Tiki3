@@ -43,4 +43,6 @@ A: I asked this question once and the answer was "if u can remix it, u can desig
 Q: Why it is called Tiki3
 A: Tiki was the name of our family dog. He passed away several years ago and we still miss him dearly. So I named this system after him. 
 
-My 3D printing hobby is running on Fun-Funds which is usually in fumes state. Contribution to this funds are from small print jobs, servicing 3D printers and the once-in-a-blue-moon tip to my paypal.me account (https://www.paypal.com/paypalme/shannonheng). If you like my design and would like to contribute finicially, a $2 tip will be greatly apperciated. Thanks
+My 3D printing hobby is running on Fun-Funds which is usually in fumes state. 
+Contribution to this funds are from small print jobs, servicing 3D printers and the once-in-a-blue-moon tip to my paypal.me account (https://www.paypal.com/paypalme/shannonheng). 
+If you like my design and would like to contribute finicially, a $2 tip will be greatly apperciated. Thanks
