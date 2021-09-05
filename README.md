@@ -1,3 +1,5 @@
+![Tiki3 Gen3 2](https://user-images.githubusercontent.com/68491566/132115498-8b4ed608-8ff6-4bba-a261-dcbf7684c226.png)
+
 # Tiki3 (version 3.2)
 A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus
 
