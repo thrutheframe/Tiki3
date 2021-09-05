@@ -14,7 +14,7 @@ Hotend that has been designed for:
 - MicroSwiss All Metal and clones
 - Red Lizard 
  
-Tiki3 can be used in a bowden configuration or as direct drive with the Orbiter V1.5 (need to print "3_2 Orbiter bracket.stl" for the orbiter bracket)
+Tiki3 can be used as direct drive system with the Orbiter V1.5 or in a bowden configuration (No need to print "3_2 Orbiter bracket.stl" for bowden config)
 
 A 5015 fan us required as the stock 4010 fan is underpowered for a dual fan duct system. 
  
@@ -54,4 +54,4 @@ Q: Why it is called Tiki3
 
 A: Tiki was the name of our family dog. He passed away several years ago and we still miss him dearly. So I named this system after him. 
 
-My 3D printing hobby is running on Fun-Funds which is usually in fumes state. Contribution to this funds are from small print jobs, servicing 3D printers and the once-in-a-blue-moon tip to my paypal.me account. If you like my design and would like to contribute finicially, a $2 coffee tip will be greatly apperciated (I like coffee). Thank you. https://www.paypal.com/paypalme/shannonheng . 
+My 3D printing hobby is running on Fun-Funds which is usually in fumes state. Contribution to this funds are from small print jobs, servicing 3D printers and the once-in-a-blue-moon tip to my paypal.me account. If you like my design and would like to contribute finically, a $2 coffee tip will be greatly appreciated (I like coffee). Thank you. https://www.paypal.com/paypalme/shannonheng
