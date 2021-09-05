@@ -5,8 +5,8 @@ A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus
 
 This mount and fan duct system is designed for the hotend carriage of some Creality Ender machines.  
 - Ender 3/3pro/3V2
-- Ender 5/5plus
-- 
+- Ender 5/5pro/5plus
+
 Hotend that has been designed for:
 - Creality stock CR10 hotend (tested)
 - Mellow NF-Zone CR10 (tested)
@@ -16,7 +16,7 @@ Hotend that has been designed for:
  
 Tiki3 can be used as direct drive system with the Orbiter V1.5 or in a bowden configuration (No need to print "3_2 Orbiter bracket.stl" for bowden config)
 
-A 5015 fan us required as the stock 4010 fan is underpowered for a dual fan duct system. 
+A 5015 fan is required as the stock 4010 fan is underpowered for a dual fan duct system. 
  
 Please see the other files for print orientation and BOM of screws and nuts required. 
  
