@@ -28,7 +28,29 @@ There are many mount and fan duct system out there, what I think differs mine fr
 As with all one-man-show, I would need the help of the community use/test this system and provide constructive suggestion to help me improve the existing design. 
 Thank you for visiting my github page. 
 
-FAQs
+
+I have to give credit where credit was due, so here goes: 
+
+CREDITS:
+
+My wife, for putting up with me as I dive into this insanity of mine. 
+
+20four80five: https://www.thingiverse.com/thing:3354741
+For first planting the idea of a side mount cooling fan and front mount part cooling fan
+
+Hangtight: https://www.thingiverse.com/thing:4725293
+For using his fan duct in version 3.1 when I was still learning Fusion360. Also basing some of the design from him work as they are good.
+
+lorinczroby: https://www.thingiverse.com/thing:4725897
+For designing the Orbiter which I used for the direct drive design.
+
+Grabcad community for coming up with all the STEP files that I need ie; 5015, 4010, BL touch, etc
+
+Mellow for sharing with me the STEP file of their NF-Zone hotend. 
+
+Thingiverse and anyone/organisation that I forgot to give credit to.
+
+FAQs:
 
 Q: Is there any major design changes between this version (3.2) and the previous versions that are uploaded on Thingiverse?
 
