@@ -70,7 +70,7 @@ A: Honestly, I would not know as I do not have those printers to work with.
 
 Q: Would you release the STEP file for others to remix your design?
 
-A: I asked this question once and the answer was "if u can remix it, u can design it on your own". He was kindof an asshole, but he was not wrong either. That is why I ended up designing this mount system. I prefer not to be an asshole, but I am cheeky. Hence, I would release the STEP files for the body and BL bracket, which will be a good foundation to built your own version/remix.  
+A: I asked this question once and the answer was "if u can remix it, u can design it on your own". He was kindof an asshole, but he was not wrong either. That is why I ended up designing my own mount system. I prefer not to be an asshole, but I am cheeky. Hence, I would release the STEP files for the body and BL bracket, which will be a good foundation to built your own version/remix.  
 
 Q: Why it is called Tiki3
 
