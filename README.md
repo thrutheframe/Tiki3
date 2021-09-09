@@ -39,7 +39,7 @@ My wife, for putting up with me as I dive into this insanity of mine.
 For first planting the idea of a side mount cooling fan and front mount part cooling fan
 
 Hangtight: https://www.thingiverse.com/thing:4725293
-For using his fan duct in version 3.1 when I was still learning Fusion360. Also basing some of the design from him work as they are good.
+For using his fan duct in version 3.1 when I was still learning Fusion360 and basing some of the design from him work as they are good.
 
 lorinczroby: https://www.thingiverse.com/thing:4725897
 For designing the Orbiter which I used for the direct drive design.
@@ -49,6 +49,8 @@ Grabcad community for coming up with all the STEP files that I need ie; 5015, 40
 Mellow for sharing with me the STEP file of their NF-Zone hotend. 
 
 Thingiverse and anyone/organisation that I forgot to give credit to.
+
+Please do share your make on Thingiverse: https://www.thingiverse.com/thing:4949727
 
 FAQs:
 
