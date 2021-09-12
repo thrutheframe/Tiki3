@@ -94,4 +94,4 @@ Q: Why it is called Tiki3
 A: Tiki was the name of our family dog. He passed away several years ago and we still miss him dearly. So I named this system after him. 
 
 <b>Contributions</b>\
- My 3D printing hobby is running on Fun-Funds which is usually in fumes state. Contribution to this funds are from small print jobs, servicing 3D printers and the once-in-a-blue-moon tip to my paypal.me account. If you like my design and would like to really thanks me, a $2 coffee tip will be greatly appreciated (I like coffee). Thank you. https://www.paypal.com/paypalme/shannonheng
+ My 3D printing hobby is running on Fun-Funds which is usually in fumes state. Contribution to this funds are from small print jobs, servicing 3D printers and the once-in-a-blue-moon tip to my paypal.me account. If you like using this system and would like to really thanks me, a $2 coffee tip will be greatly appreciated (I like coffee). Thank you. https://www.paypal.com/paypalme/shannonheng
