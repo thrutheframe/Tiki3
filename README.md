@@ -1,6 +1,13 @@
 ![Tiki3 Gen3 2](https://user-images.githubusercontent.com/68491566/132115498-8b4ed608-8ff6-4bba-a261-dcbf7684c226.png)
 
 # Tiki3 (version 3.2)
+
+<b>Update 12 Sep 2021: </b> shorter version of cable relief added. reduce by 20mm from the original. This is to prevent the cable from hitting the top bar during tall prints. 
+\
+\
+\
+\
+<b>Introduction</b>\
 A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus
 
 This mount and fan duct system is designed for the hotend carriage of some Creality Ender machines.  
@@ -31,7 +38,7 @@ Thank you for visiting my github page.
 
 I have to give credit where credit was due, so here goes: 
 
-CREDITS:
+<b>CREDITS:</b>
 
 My wife, for putting up with me as I dive into this insanity of mine. 
 
@@ -52,7 +59,7 @@ Thingiverse and anyone/organisation that I forgot to give credit to.
 
 Please do share your make on Thingiverse: https://www.thingiverse.com/thing:4949727
 
-FAQs:
+<b>FAQs:</b>
 
 Q: Is there any major design changes between this version (3.2) and the previous versions that are uploaded on Thingiverse?
 
@@ -86,4 +93,5 @@ Q: Why it is called Tiki3
 
 A: Tiki was the name of our family dog. He passed away several years ago and we still miss him dearly. So I named this system after him. 
 
-My 3D printing hobby is running on Fun-Funds which is usually in fumes state. Contribution to this funds are from small print jobs, servicing 3D printers and the once-in-a-blue-moon tip to my paypal.me account. If you like my design and would like to contribute finically, a $2 coffee tip will be greatly appreciated (I like coffee). Thank you. https://www.paypal.com/paypalme/shannonheng
+<b>Contributions</b>\
+ My 3D printing hobby is running on Fun-Funds which is usually in fumes state. Contribution to this funds are from small print jobs, servicing 3D printers and the once-in-a-blue-moon tip to my paypal.me account. If you like my design and would like to contribute finically, a $2 coffee tip will be greatly appreciated (I like coffee). Thank you. https://www.paypal.com/paypalme/shannonheng
