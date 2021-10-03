@@ -67,7 +67,7 @@ A: Most of the changes structual improvements, but the position of the mounting 
 
 Q:Will there be a design for V6 /Dragon hotend?
 
-A: Yes. I am working on it. 
+A: Yes. I am working on the Dragon version. You can download it from https://github.com/thrutheframe/Tiki3_Dragon. The V6 version is a bit tricky. so it will take time.
 
 Q: Would you be able to include a custom design for bracket/fan duct/holder etc etc?
 
