@@ -89,11 +89,15 @@ A: I asked this question once and the answer was "if u can remix it, u can desig
 
 Q: Did you test print it in PLA? How did you get even get such specific numbers? "...I find stuff like this very misleading with serious potential to cause damage to printers when people try to do it..." 
 
-A: I try my best to answer questions pertaining to the design. Constructive suggestions and contributions to the design are greatly apperciated. But please be polite and nice. 
+A: I try my best to answer questions pertaining to the design. Constructive suggestions and contributions to the design are greatly apperciated. Please be polite and nice. 
+
+Q: How accurate is the CFD simulation on your fan duct? Did u consider turbulance of of the 5015? Did u take into account of hotend movement? etc etc.
+
+A:My basic CFD simulation of the particles movement (air) is to provide a validation that the air is directed under the nozzle when designing the fan duct. There are many other parameters that I would not know. tbh, it's a fanduct for 3D printer, not a cooling system of a nuclear plant... so take a chill pill and dun go karen/ken on me. 
 
 Q: Why do you add a heat sink to your motor? it is counter-productive as it add weight? 
 
-A: Simple. I like the look of it. 
+A: Simple. I like it. 
 
 Q: Why it is called Tiki3
 
