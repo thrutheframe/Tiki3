@@ -3,7 +3,9 @@
 # Tiki3 (version 3.2)
 
 
-<b>Update 14 Oct 2021: </b> updated fan duct design to V2. CFD simulation shows better results. Still in test phase. 
+<b>Update 14 Oct 2021: </b> \
+Updated fan duct design to V2. CFD simulation shows better results. Still in test phase. \
+Added body_top with adxl mount. Mounting holes are 19mm apart. Please measure your adxl to check fitting. Will only work with fan_duct V2. 
 \
 \
 \
