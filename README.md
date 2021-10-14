@@ -3,11 +3,11 @@
 # Tiki3 (version 3.2)
 
 
-<b>Update 14 Oct 2021: </b> \
-Updated fan duct design to V2. CFD simulation shows better results. Still in test phase. \
-Added body_top with adxl mount. Mounting holes are 19mm apart. Please measure your adxl to check fitting. Will only work with fan_duct V2. 
-![cdf01](https://user-images.githubusercontent.com/68491566/137338839-0f8c7863-d9f0-41a4-8ff5-fefd89cc002b.png)
-![body_top adxl04-1](https://user-images.githubusercontent.com/68491566/137338337-313b108e-5540-4a96-9a01-9d8594fbb410.png)
+<b>Update 14 Oct 2021: </b> 
+- Updated fan duct design to V2. used a CFD simulation to check for air path. Still in test phase. \
+- Added body_top with adxl mount. Mounting holes are 19mm apart. Please measure your adxl to check fitting. Will only work with fan_duct V2. 
+![body_top adxl04](https://user-images.githubusercontent.com/68491566/137341981-c3b58017-7957-454d-a814-c8dbd1234d59.png)
+
 \
 \
 <b>Update 12 Sep 2021: </b> shorter version of cable relief added. reduce by 20mm from the original. This is to prevent the cable from hitting the top bar during tall prints. 
