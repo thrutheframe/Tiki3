@@ -6,7 +6,7 @@
 <b>Update 14 Oct 2021: </b> \
 Updated fan duct design to V2. CFD simulation shows better results. Still in test phase. \
 Added body_top with adxl mount. Mounting holes are 19mm apart. Please measure your adxl to check fitting. Will only work with fan_duct V2. 
-![body_top adxl04](https://user-images.githubusercontent.com/68491566/137337781-85465a9c-65c9-4f66-87cc-f0dc7b856991.png)
+![body_top adxl04-1](https://user-images.githubusercontent.com/68491566/137338337-313b108e-5540-4a96-9a01-9d8594fbb410.png)
 \
 \
 <b>Update 12 Sep 2021: </b> shorter version of cable relief added. reduce by 20mm from the original. This is to prevent the cable from hitting the top bar during tall prints. 
