@@ -25,9 +25,9 @@ This mount and fan duct system is designed for the hotend carriage of some Creal
 Hotend that has been designed for:
 - Creality stock CR10 hotend (tested)
 - Mellow NF-Zone CR10 (tested)
-- Mellow NF-Smart
+- Mellow NF-Smart 
 - MicroSwiss All Metal and clones
-- Red Lizard 
+- Red Lizard (need mod)
  
 Tiki3 can be used as direct drive system with the Orbiter V1.5 or in a bowden configuration (No need to print "3_2 Orbiter bracket.stl" for bowden config)
 
