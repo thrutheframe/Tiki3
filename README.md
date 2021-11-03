@@ -4,7 +4,7 @@
 
 
 <b>Update 14 Oct 2021: </b> 
-- Updated fan duct design to V2. used a CFD simulation to check for air path. Still in test phase. \
+- Updated fan duct design to V2. used a CFD simulation to check for air path.
 - Added body_top with adxl mount. Mounting holes are 19mm apart. Please measure your adxl to check fitting. Will only work with fan_duct V2. 
 ![body_top adxl04](https://user-images.githubusercontent.com/68491566/137341981-c3b58017-7957-454d-a814-c8dbd1234d59.png)
 
